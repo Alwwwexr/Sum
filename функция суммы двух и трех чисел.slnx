@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="функция суммы двух и трех чисел/функция суммы двух и трех чисел.vcxproj" />
+</Solution>
